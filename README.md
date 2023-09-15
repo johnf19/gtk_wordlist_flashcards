@@ -15,7 +15,7 @@
 ![alt_text](https://github.com/johnf19/gtk_wordlist_flashcards/blob/main/delete.png)
 
 ## Incompleted:
-* Easy/ Normal/ Hard marking method. Every word has an power elements, default is 3 and should be affected by choose which difficulty mark.
+* Easy/ Normal/ Hard marking method. Every word has an power elements, default is 3 and should be affected by choose different difficulty mark.
 * The random flashcard should be power weighted. Words will be more possibility to show in flashcard test with higher power.
 
 ### Flashcard Test
